@@ -18,6 +18,9 @@
   "homepage": "https://github.com/EJ2KDJ/WeatherAPIWrapper#readme",
   "description": "",
   "dependencies": {
-    "dotenv": "^17.2.3"
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "redis": "^5.10.0"
   }
 }
